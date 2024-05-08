@@ -1,4 +1,4 @@
-// 0 1 1 2 3 
+// Fibonacci Sequence -> 0 1 1 2 3 
 
 function fibonacci(n){
     const fib = [0,1]
